@@ -37,7 +37,7 @@ from telegram.ext import (
 # ─────────────────────────────────────────────
 #  CONFIG  (hardcoded as requested)
 # ─────────────────────────────────────────────
-BOT_TOKEN     = "8832316948:AAGr4eMGJL4aCCs3qb7IKboxa-NiKb50QG4"
+BOT_TOKEN     = "8832316948:AAGtFSWtUb-mV9cUwWg42_Oxd_quucUsuSU"
 DB_CHANNEL_ID = -1004332152220
 OWNER_ID      = 8189708860
 MONGO_URI     = "mongodb+srv://Esh:1234567890ukwhat@cluster0.mnbnc7a.mongodb.net/?appName=Cluster0"
